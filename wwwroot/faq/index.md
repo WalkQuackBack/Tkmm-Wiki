@@ -31,6 +31,14 @@ This is why version 1.0.0 of Tears of the Kingdom is not supported by TKMM.
 
 ---
 
+## What is a TKCL file?
+
+TKCL files are a custom file format specific to TKMM. Compared to standard file archives, they have features such as mod options and customizations, a lower file footprint, and allow mods to work better on multiple versions.
+
+However, as of the TKMM beta phase, the TKCL file format is subject to change, so you may face unexpected issues when using TKCL's that were made using an older version of TKMM.
+
+---
+
 ## Can mods be made compatible for any version?
 
 TKMM will apply the edits from each RomFS mod to the exact version of your game dump, which needs to be at least version [1.1.0 or later](#why-cant-i-use-version-100).
